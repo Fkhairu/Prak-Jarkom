@@ -1,0 +1,25 @@
+# LAPORAN PRAKTIKUM IF-04-01
+
+## TUJUAN PRAAKTIKUM
+Belajar Wireshark dari 0
+
+## LANGKAH PENGINSTALAN
+1. Download file wireshark https://www.wireshark.org/
+2. Lalu install dan next next sampai selesai penginstallan
+
+## Praktik menggunakan Wireshark
+1. Buka APK yang sudah di unduh
+2. Hubungkan Perangkat ke Wifi
+3. Lalu klik bagian wifi
+4. Disana terlihat trafik paket jaringan dengan detail seperti alamat IP,protokol,waktu,panjang,info.
+5. Lalu jalankan di browser http://gaia.cs.umass.edu/wireshark-labs/INTRO-wireshark-file1.html
+6. pastikan link tersebut HTTP bukan HTTPS
+7. lalu Pause
+8. ketik HTTP di pencarian Wireshark
+9. jika berhasi disitu akan muncul link yang dijalankan di browser tadi.
+
+
+## Lampiran
+Hasil Percobaan:
+![Hasil-Percobaan](../assets/image/Default.png)
+![Hasil-Percobaan](../assets/image/HTTP.png)
